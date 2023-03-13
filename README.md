@@ -7,7 +7,7 @@ https://twitter.com/WhatTheADHD/status/1527617004336820228?s=20
 
 Import the macro in macro management, you can import .bas or copy and paste the code into a new macro.
 
-<b> Verions: </b>
+<b> Versions: </b>
 
 V0_5 - Formats text for X letters from/since where you click, a window to type the amount of next letters to process appears when macro starts.
 
